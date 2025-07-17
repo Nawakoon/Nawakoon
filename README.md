@@ -1,13 +1,11 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
   <p align="center">
-    <img src="asset/philosopher.png" width="200" alt="Philosopher" />
-  </p>
-
-  <p align="center">
     <em>
-      A girl who doesn’t have the confidence to post her bikini pics<br>
-      won’t have the confidence to give a good blowjob<br>
+      Americans need to learn how to make an Americano like the Thais do<br>
       — Nawakoon —
     </em>
+  </p>
+  <p align="center">
+    <img src="asset/philosopher.png" width="200" alt="Philosopher" />
   </p>
 </div>
